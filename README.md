@@ -4,4 +4,4 @@ Quickly access the JSON configuration of your Datawrapper chart
 
 ### Links
 
-* [Installation guide](https://palewi.re/docs/datawrapper-json-bookmarklet/)
+* [Documentation and installation guide](https://palewi.re/docs/datawrapper-json-bookmarklet/)
