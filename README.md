@@ -20,7 +20,7 @@ Drag the link below into your brower's bookmark bar:
 
 <a href="javascript:(function() { var url = window.location.href; var id = url.split('/')[4]; window.open('https://app.datawrapper.de/api/v3/collaboration/charts/' + id, '_blank') })();">Datawrapper JSON</a>
 
-### 2. Pasting code
+### 2. Paste code
 
 Create a new bookmark in your browser and paste in the following code:
 
