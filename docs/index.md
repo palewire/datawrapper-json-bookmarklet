@@ -20,14 +20,14 @@ There are two methods for installing the bookmarklet.
 
 Drag the link below to your browser's bookmark bar:
 
-<a href="javascript:(function() { var url = window.location.href; var id = url.split('/')[4]; window.open('https://app.datawrapper.de/api/v3/collaboration/charts/' + id, '_blank') })();">Datawrapper JSON</a>
+<a href="javascript:(function() { var url = window.location.href; var id = url.split('/')[5]; window.open('https://app.datawrapper.de/api/v3/collaboration/charts/' + id, '_blank') })();">Datawrapper JSON</a>
 
 ### 2. Paste code
 
 Create a new bookmark in your browser and paste in the following code:
 
 ```js
-javascript:(function() { var url = window.location.href; var id = url.split('/')[4]; window.open('https://app.datawrapper.de/api/v3/collaboration/charts/' + id, '_blank') })();
+javascript:(function() { var url = window.location.href; var id = url.split('/')[5]; window.open('https://app.datawrapper.de/api/v3/collaboration/charts/' + id, '_blank') })();
 ```
 
 Add the bookmarklet to your browser's bookmarks bar.
